@@ -119,5 +119,8 @@ return array (
     'Magento_WidgetSampleData' => 1,
     'Magento_Wishlist' => 1,
     'Magento_WishlistSampleData' => 1,
+    'Smartwave_Core' => 1,
+    'Smartwave_Filterproducts' => 1,
+    'Smartwave_Porto' => 1,
   ),
 );
